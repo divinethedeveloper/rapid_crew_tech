@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #199",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/199.png",
+  "dna": "dd3ff92fb4bd65aebdf23afb1398f3feb39545ca",
+  "edition": 199,
+  "date": 1741466734790,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "chart"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "toothpick"
+    },
+    {
+      "trait_type": "head",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "eye",
+      "value": "rayban"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "corporate suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #315",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/315.png",
+  "dna": "8f578ec3c7c5a3783629b3b4908fd74c21c7833a",
+  "edition": 315,
+  "date": 1741466748664,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "toothpick"
+    },
+    {
+      "trait_type": "head",
+      "value": "spiky"
+    },
+    {
+      "trait_type": "eye",
+      "value": "rayban"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "plain office shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

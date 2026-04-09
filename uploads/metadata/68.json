@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #68",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/68.png",
+  "dna": "c41bba2d9f388b0b41472dc534cedb849ad99208",
+  "edition": 68,
+  "date": 1741466710381,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "head",
+      "value": "yellow hair"
+    },
+    {
+      "trait_type": "eye",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "suit cash in pocket"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

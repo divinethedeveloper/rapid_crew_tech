@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #324",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/324.png",
+  "dna": "04d233b14d897137b45e7fe512c22155977c2fe1",
+  "edition": 324,
+  "date": 1741466749727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "light pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "laughing"
+    },
+    {
+      "trait_type": "head",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "eye",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "plain office shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #235",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/235.png",
+  "dna": "4debc765543e4c98f0e66b3484cb25ba7efad47b",
+  "edition": 235,
+  "date": 1741466739066,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "laughing"
+    },
+    {
+      "trait_type": "head",
+      "value": "Trilby hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "focus"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "corporate suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

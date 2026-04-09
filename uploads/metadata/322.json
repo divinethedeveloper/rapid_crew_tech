@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #322",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/322.png",
+  "dna": "46c18cff7d45d3d12bd22918228e57baf0140aaa",
+  "edition": 322,
+  "date": 1741466749493,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "laughing"
+    },
+    {
+      "trait_type": "head",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "eye",
+      "value": "focus"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "brown casual coat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #289",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/289.png",
+  "dna": "4e92fb4ebf2c76c4fc7564cb65ac65c6fd11280c",
+  "edition": 289,
+  "date": 1741466745454,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "light pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "head",
+      "value": "Trilby hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "rayban"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "corporate suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

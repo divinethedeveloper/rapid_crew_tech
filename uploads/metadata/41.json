@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #41",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/41.png",
+  "dna": "4023fcb7cefaf533f7bc7451a76c26a4a575418a",
+  "edition": 41,
+  "date": 1741466705533,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "head",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "eye",
+      "value": "rayban"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "brown casual coat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

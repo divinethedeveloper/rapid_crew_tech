@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #160",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/160.png",
+  "dna": "cc6cfdb920826ef563dbcaa19728ea7665c51f2b",
+  "edition": 160,
+  "date": 1741466730046,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "chart"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "laughing"
+    },
+    {
+      "trait_type": "head",
+      "value": "fedora hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "suit cash in pocket"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #178",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/178.png",
+  "dna": "9f0ea230c169ca66c757029642da88eb3792d1aa",
+  "edition": 178,
+  "date": 1741466732387,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "chart"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "head",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "eye",
+      "value": "focus"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "suit cash in pocket"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

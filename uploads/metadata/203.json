@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #203",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/203.png",
+  "dna": "f2b1e57c43c4c0bb32a72a6c809727c42bf1e87a",
+  "edition": 203,
+  "date": 1741466735303,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "head",
+      "value": "Trilby hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "focus"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "corporate suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

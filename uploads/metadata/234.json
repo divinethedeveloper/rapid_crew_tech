@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #234",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/234.png",
+  "dna": "faa6de7df7df30437196dec8a89681855b4525b2",
+  "edition": 234,
+  "date": 1741466738950,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "laughing"
+    },
+    {
+      "trait_type": "head",
+      "value": "yellow hair"
+    },
+    {
+      "trait_type": "eye",
+      "value": "normal"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "suit cash in pocket"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

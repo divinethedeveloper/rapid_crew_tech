@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #134",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/134.png",
+  "dna": "7944de80a022007a012663c0b92b0c2afa015341",
+  "edition": 134,
+  "date": 1741466726813,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "head",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "eye",
+      "value": "rayban"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "corporate suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

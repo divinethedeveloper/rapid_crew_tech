@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #42",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/42.png",
+  "dna": "289c9419a843f0e8f5d90317d5551e6835f5bed4",
+  "edition": 42,
+  "date": 1741466705651,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "head",
+      "value": "Trilby hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "X man cyclops lazer eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "brown casual coat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

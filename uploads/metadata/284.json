@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #284",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/284.png",
+  "dna": "c22ed6fd13bb1adaa421b7771b457e0edbd701a5",
+  "edition": 284,
+  "date": 1741466744845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "chart"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "toothpick"
+    },
+    {
+      "trait_type": "head",
+      "value": "Trilby hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "X man cyclops lazer eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "corporate suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

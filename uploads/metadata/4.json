@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #4",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/4.png",
+  "dna": "0950c1266b414ffb2483ecca5e8347ff0b2f0393",
+  "edition": 4,
+  "date": 1741466700772,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "head",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "eye",
+      "value": "X man cyclops lazer eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "suit cash in pocket"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

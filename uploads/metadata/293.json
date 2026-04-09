@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #293",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/293.png",
+  "dna": "650e449d175473cea460eacbf28547007da3495e",
+  "edition": 293,
+  "date": 1741466745924,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "light pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "toothpick"
+    },
+    {
+      "trait_type": "head",
+      "value": "spiky"
+    },
+    {
+      "trait_type": "eye",
+      "value": "focus"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "brown casual coat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

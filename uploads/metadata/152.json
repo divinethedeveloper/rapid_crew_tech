@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #152",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/152.png",
+  "dna": "976b4d57bf9da4580f989b0dc11d0ea0a6f11449",
+  "edition": 152,
+  "date": 1741466728982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "light pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "head",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "eye",
+      "value": "black glasses"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "suit cash in pocket"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

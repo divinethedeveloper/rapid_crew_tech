@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #129",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/129.png",
+  "dna": "777f6d3c4c8a8e1293b15691c659f326d6208dc9",
+  "edition": 129,
+  "date": 1741466726067,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "head",
+      "value": "Trilby hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "rayban"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "brown casual coat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

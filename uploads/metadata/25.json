@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #25",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/25.png",
+  "dna": "da59776871d27f89c6a7b3ab7a4a4bf4dea8d2b4",
+  "edition": 25,
+  "date": 1741466703637,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "head",
+      "value": "fedora hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "normal"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "brown casual coat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

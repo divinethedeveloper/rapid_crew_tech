@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #85",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/85.png",
+  "dna": "6d5c160fbd7c953987ea0d88ce10b6c3732265e3",
+  "edition": 85,
+  "date": 1741466718582,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "toothpick"
+    },
+    {
+      "trait_type": "head",
+      "value": "fedora hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "plain office shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

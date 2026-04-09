@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #163",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/163.png",
+  "dna": "96025f36ca862bec39e2c6b191455def1ecded57",
+  "edition": 163,
+  "date": 1741466730409,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "toothpick"
+    },
+    {
+      "trait_type": "head",
+      "value": "yellow hair"
+    },
+    {
+      "trait_type": "eye",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "plain office shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

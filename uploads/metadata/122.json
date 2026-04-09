@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #122",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/122.png",
+  "dna": "b1e197a73cb04a05c493040babbcee0dc434d279",
+  "edition": 122,
+  "date": 1741466724877,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "head",
+      "value": "Trilby hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "third eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "plain office shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

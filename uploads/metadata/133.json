@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #133",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/133.png",
+  "dna": "beeedf38178f90d78b6b2b077c58d3130ad4b8e3",
+  "edition": 133,
+  "date": 1741466726682,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "light pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "head",
+      "value": "spiky"
+    },
+    {
+      "trait_type": "eye",
+      "value": "focus"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "suit cash in pocket"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

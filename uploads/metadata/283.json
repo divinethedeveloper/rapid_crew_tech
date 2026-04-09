@@ -1,0 +1,35 @@
+{
+  "name": " B3TR Tradze #283",
+  "description": "",
+  "image": "ipfs://bafybeidjsrbege3ojcgjxb3dkzdjqbt2panmqyrr2y6td6rysac7ursnyi/283.png",
+  "dna": "8cf72839150226546152b6ebc8fb90f97f25fe07",
+  "edition": 283,
+  "date": 1741466744711,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "chart"
+    },
+    {
+      "trait_type": "base",
+      "value": "base"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "head",
+      "value": "fedora hat"
+    },
+    {
+      "trait_type": "eye",
+      "value": "X man cyclops lazer eye"
+    },
+    {
+      "trait_type": "outfits",
+      "value": "corporate suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

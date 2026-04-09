@@ -1,0 +1,20 @@
+RewriteEngine On
+
+# Exclude specific directories from rewriting
+RewriteRule ^(assets|public|backend|uploads) - [L]
+
+# Rewrite requests to routes/index.php
+RewriteCond %{REQUEST_URI} !^/index\.html
+RewriteRule !\.(css|js|png|jpg|gif|html|avif)$ /index.html [L]
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^rapidcrewtechgh\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.rapidcrewtechgh\.com$
+RewriteRule ^/?$ "https\:\/\/rapidcrewtechgh\.com\/" [R=301,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php82” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

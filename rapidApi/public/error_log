@@ -1,0 +1,30 @@
+[06-Apr-2024 10:40:10 UTC] PHP Warning:  require(/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:40:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/rapidcre/public_html/rapidApi/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:41:40 UTC] PHP Warning:  require(/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:41:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/rapidcre/public_html/rapidApi/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:41:44 UTC] PHP Warning:  require(/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:41:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/rapidcre/public_html/rapidApi/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:48:39 UTC] PHP Warning:  require(/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:48:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/rapidcre/public_html/rapidApi/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:50:14 UTC] PHP Warning:  require(/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:50:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/rapidcre/public_html/rapidApi/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:50:41 UTC] PHP Warning:  require(/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rapidcre/public_html/rapidApi/public/index.php on line 34
+[06-Apr-2024 10:50:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rapidcre/public_html/rapidApi/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/rapidcre/public_html/rapidApi/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rapidcre/public_html/rapidApi/public/index.php on line 34

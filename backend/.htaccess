@@ -1,0 +1,6 @@
+RewriteEngine On
+CGIPassAuth On
+
+RewriteRule ^uploads/ - [L]
+
+RewriteRule ^ router.php [L]

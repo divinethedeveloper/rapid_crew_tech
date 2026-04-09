@@ -1,0 +1,26 @@
+{
+    "require": {
+        "phroute/phroute": "^2.2",
+        "symfony/error-handler": "^6.3",
+        "monolog/monolog": "^3.4",
+        "firebase/php-jwt": "^6.8",
+        "phpmailer/phpmailer": "^6.8"
+    },
+
+    "autoload": {
+        "psr-4" : {
+            "Model\\": "models",
+            "Model\\User\\": "models/users",
+            "Model\\Product\\": "models/products",
+            "Model\\Blog\\": "models/blog",
+
+            "Controller\\": "controllers",
+            "Controller\\General\\": "controllers/general",
+            "Controller\\Admin\\": "controllers/admin",
+            "Controller\\Blog\\": "controllers/blog",
+
+            "Service\\": "services",
+            "Middleware\\": "middlewares"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+RewriteEngine On
+
+# Exclude specific directories from rewriting
+RewriteRule ^(assets|public|backend) - [L]
+
+# Rewrite requests to routes/index.php
+RewriteCond %{REQUEST_URI} !^/index\.html
+RewriteRule !\.(css|js|png|jpg|gif|html|avif)$ /index.html [L]
+
+# Force HTTPS for dapp.rapidcrewtechgh.com
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^dapp\.rapidcrewtechgh\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.dapp\.rapidcrewtechgh\.com$
+RewriteRule ^/?$ "https\:\/\/dapp\.rapidcrewtechgh\.com\/" [R=301,L]
+
+# PHP Handler for cPanel
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
+</IfModule>
